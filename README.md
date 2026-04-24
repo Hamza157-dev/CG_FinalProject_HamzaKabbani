@@ -99,14 +99,3 @@ MazeGame/
 
 ---
 
-## 🎯 Grading Criteria Coverage
-
-| Criterion | Implementation |
-|-----------|---------------|
-| Environment setup & render loop | GLFW + GLAD + Core Profile + stable loop |
-| Scene geometry | VAO/VBO/EBO, MVP matrix transforms |
-| Camera system | Perspective, mouse look, WASD movement |
-| Textures & visual effects | Ambient + diffuse GLSL lighting |
-| Character & controls | First-person movement with deltaTime |
-| Collision & maze design | AABB collision, structured maze layout |
-| Game logic & HUD | Score tracking, win state, window title HUD |
